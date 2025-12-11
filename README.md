@@ -15,6 +15,7 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post                                                    | Code                                                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [From Image to 3D: The Structure from Motion in OpenCV](https://opencv.org/blog/structure-from-motion-in-opencv/) | [Code](https://www.dropbox.com/scl/fo/nwtrsbujs3w1ts63zk6y3/AMfNg3D7eiZsKxjHUplLc40?rlkey=s8eh9unshf9k0cjxx4vqagqyk&st=u3fyiu0y&dl=1) |
 | [OpenCV HighGUI: Building Responsive and Customizable Interfaces](https://opencv.org/blog/opencv-highgui/) | [Code](https://www.dropbox.com/scl/fo/vatv5g71qswrauei64s4l/AMWcw0sd4LAvPD97zEUuwcg?rlkey=m90pnjaah493nol1f01a603uz&st=lo8gsfsw&dl=1) |
 | [Configuring Raspberry Pi for OpenCV: Camera & Cooling Workflow (2025 Refresh](https://opencv.org/blog/configuring-raspberry-pi-for-opencv-camera-cooling/) | [Code](https://www.dropbox.com/scl/fo/tmm9gw2w8f2lqkfrx5zsx/ADmEfyDpvLQr4f0TOB7Kr2I?rlkey=hgt0b7c9u75159ei0rsdjvzua&st=d5fke8fd&dl=1) |
 | [OpenCV.js in Action: Live Webcam Filters and Effects](https://opencv.org/blog/opencv-js-real-time-webcam-filters/) | [Code](https://www.dropbox.com/scl/fo/ovbgyfzw1uc7hk09w54nm/ADfrav6_wuNufuxNRcZHJns?rlkey=mh5n80xb3gneu5p0du801jpyo&st=ucs13fc1&dl=1) |
