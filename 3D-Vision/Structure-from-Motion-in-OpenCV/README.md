@@ -2,7 +2,7 @@
 
 This repository contains code related to the blog post [From Image to 3D: The Structure from Motion in OpenCV](https://opencv.org/blog/structure-from-motion-in-opencv/)
 
-![OpenCV.js](https://opencv.org/wp-content/uploads/2025/12/sfm-feature-image.gif)
+![OpenCV SfM](https://opencv.org/wp-content/uploads/2025/12/sfm-feature-image.gif)
 
 
 
