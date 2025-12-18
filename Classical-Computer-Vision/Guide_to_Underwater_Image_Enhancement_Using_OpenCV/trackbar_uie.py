@@ -118,11 +118,11 @@ def run_app(image_path, video_path):
     cv2.createTrackbar("CLAHE Clip", "Controls", 12, 30, on_trackbar)
     cv2.createTrackbar("Red Boost", "Controls", 30, 100, on_trackbar)
 
-    # ----- Window for enhanced image -----
+    # Window for enhanced image 
     cv2.namedWindow("Enhanced", cv2.WINDOW_NORMAL)
     cv2.resizeWindow("Enhanced", 900, 900)
 
-    # ----- Window for original image 
+    # Window for original image 
     cv2.namedWindow("Original", cv2.WINDOW_NORMAL)
     cv2.resizeWindow("Original", 900, 900)
 
@@ -134,8 +134,7 @@ def run_app(image_path, video_path):
 
     img = cv2.imread(image_path)
     img = cv2.resize(img, (900, 900))
-    # cv2.imshow("Original", img)
-    # cv2.imshow("Enhanced", enhanced)
+    
 
 
     mode = "image"
@@ -176,7 +175,7 @@ def run_app(image_path, video_path):
                 print("Saved enhanced_output.png")
 
             if mode == "video":
-                print("Saving full enhanced video...")
+                print("Saving full enhanced video")
                 save_enhanced_video(video_path)
                 print("enhanced_video.mp4 saved!")
 
@@ -184,6 +183,6 @@ def run_app(image_path, video_path):
 
 
 run_app(
-    r"C:\\Users\\samru\\PycharmProjects\\Underwater_Image_Enhancer\\see-thru-4.jpg",
-    r"C:\\Users\\samru\\PycharmProjects\\Underwater_Image_Enhancer\\video1.mp4"
+    r"image_input.png",
+    r"video_input.mp4"
 )
