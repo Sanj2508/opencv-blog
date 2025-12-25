@@ -1,6 +1,6 @@
 # OpenCV G-API: From Imperative to Declarative Pipelines
 
-This repository contains code related to the blog post [OpenCV G-API: From Imperative to Declarative Pipelines](https://opencv.org/blog/configuring-raspberry-pi-for-opencv-camera-cooling/)
+This repository contains code related to the blog post [OpenCV G-API: From Imperative to Declarative Pipelines](https://opencv.org/blog/opencv-g-api/)
 
 ![OpenCV.G-API](https://opencv.org/wp-content/uploads/2025/12/Opencv-G-API-feature-image.gif)
 
